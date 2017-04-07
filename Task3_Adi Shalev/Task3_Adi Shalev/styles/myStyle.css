@@ -1,0 +1,196 @@
+body 
+{
+    direction:rtl;
+}
+#container
+{
+    margin: 0 auto;
+    width:1300px;
+   
+}
+body
+{
+     background-image: url("../image/RAF_5315.jpg");
+     background-size: cover;
+}
+
+header img 
+{
+    height: 130px ;
+    width: 100px;
+    margin-right: 600px;
+    margin-top: 15px;
+}
+header h1
+{
+    margin-top: 20px;
+    margin-right: 580px;
+    margin-left: 590px;
+    font-size: 40px;
+    font-weight: bold;
+    -webkit-box-shadow: 5px 5px 5px 5px #191919;
+box-shadow: 5px 5px 5px 5px #191919;
+}
+
+header img:hover
+{
+background-image: url("../image/IMG-20161214-WA0000.jpeg");
+height: 130px;
+width: 100px;
+
+}
+ nav ul li 
+ {
+     display: inline-block;
+      list-style: none;
+      text-shadow: 6px 3px 6px #000000;
+
+ }
+  nav ul li a
+{
+      background-color: #e912d7;
+      /*background-color: darkolivegreen;*/
+      color: white;
+      width: 100px;
+      height: 50px;
+      padding: 10px 10px;
+      text-decoration: none;
+      text-align:center;
+  }
+   nav ul li a:hover
+   {
+       color: black;
+   }
+ nav ul
+ {
+          margin-right: 350px;
+         margin-top: 30px;
+         font-size: 20px;
+         font-weight:bold;
+ }
+ #odot h1
+ {
+     margin-top: 30px;
+     margin-right:600px;
+     font-size: 30px;
+     font-weight: bold;
+ }
+
+
+ #body p{
+     margin-right: 200px;
+     margin-left: 200px;
+     margin-top: 20px;
+     font-size: 20px;
+ }
+ #body a:hover
+ {
+     color: red;
+ }
+ #body a:active
+ {
+     color: green;
+ }
+ #work h1
+ {
+  margin-top: 30px;
+     margin-right:500px;
+     margin-bottom: 15px;
+     font-size: 30px;
+     font-weight: bold;
+ }
+ #bodywork ol li
+ {
+     margin-top: 8px;
+     margin-right: 200px;
+     font-size: 20px;
+     list-style-image: url("../image/Untitled-4.png");
+ }
+ #bodywork ol
+ {
+     margin-bottom: 35px;
+     background-color: rgba(245, 241, 241, 0.61);
+background-size: cover;
+     }
+  #bodywork ol li p 
+ {
+     margin-bottom: 3px;
+ }
+  #bodywork ol li p, span
+  {
+      font-weight: bold;
+  }
+  #school h1, #phone h1, #email h1
+  {
+       margin-top: 30px;
+     margin-right:500px;
+     margin-bottom: 15px;
+     font-size: 30px;
+     font-weight: bold;
+  }
+ #school ol li
+ {
+     margin-right: 200px;
+     margin-top: 20px;
+     font-size: 20px; 
+    list-style-image: url("../image/Untitled-3.png");
+ }
+ #school ol li a:hover
+ {
+     color: red;
+ }
+ #school ol li a:active
+ {
+     color: green;
+ }
+ #hobby h1
+ {
+  margin-top: 30px;
+     margin-right:450px;
+     margin-bottom: 15px;
+     font-size: 30px;
+     font-weight: bold;
+ }
+ #hobby ol li{
+      margin-right: 350px;
+     margin-top: 20px;
+     font-size: 20px;
+     list-style-image: url("../image/Untitled-5.png");
+ }
+ #phone>p
+ {
+      margin-top: 30px;
+     margin-right:580px;
+     font-size: 20px;
+ }
+  #email>p{
+   margin-top: 30px;
+     margin-right:510px;
+     font-size: 20px;
+  }
+  footer a img
+  {
+     height: 40px;
+     width:40px;
+  }
+  footer
+  {
+      margin-right: 560px;
+      margin-top: 30px;
+  }
+#tik h1 {
+    margin-top: 30px;
+    margin-right: 570px;
+    font-size: 30px;
+    font-weight: bold;
+}
+#tik>p img
+{
+    height: 600px;
+    width: 850px;
+    margin-right: 200px;
+}
+#tik>p
+{
+    margin-top: 30px;
+}
